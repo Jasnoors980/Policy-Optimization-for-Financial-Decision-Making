@@ -21,7 +21,7 @@ It involves both **Supervised Learning** and **Offline Reinforcement Learning (R
 4. Compare both models by accuracy, F1, AUC, and financial reward metrics.
 
 ---
-# 📘 How to Run Code
+#  How to Run Code
 
 ### Step 1 - Ensure you have requirements.txt  
 Make sure the `requirements.txt` file is present in your project directory.
